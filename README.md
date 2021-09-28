@@ -16,7 +16,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQLite
 
 <p align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/tela-inicial.JPG" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/tela-inicial.JPG" width="440px" />
+  Criar sala.
 </p>
 ---
 
