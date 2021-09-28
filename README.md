@@ -19,11 +19,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/tela-inicial.JPG" width="440px" />
 </p>
 <p align="center">Criar sala</p>
----
 
+---
 <p align="center">
   <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/pergunta.JPG" width="440px" />
 </p>
 <p align="center">Pergunta</p>
+
 ---
 Feito no NLW-06 da Rocketseat
