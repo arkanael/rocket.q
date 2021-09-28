@@ -17,8 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="center">
   <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/tela-inicial.JPG" width="440px" />
-  Criar sala.
 </p>
+<p align="center">Criar sala</p>
+
 ---
 
 Feito no NLW-06 da Rocketseat
