@@ -15,6 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
+<p align="center">
+  <img alt="Rocket.Q" title="Rocket.Q" src="/doc/img/tela-inicial.JPG" width="220px" />
+</p>
 ---
 
 Feito no NLW-06 da Rocketseat
